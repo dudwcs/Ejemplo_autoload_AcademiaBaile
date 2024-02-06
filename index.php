@@ -1,11 +1,12 @@
 <?php
 
 
-require_once "Persoa.php";
-require_once 'Profesor.php';
-require_once 'Alumno.php';
-require_once 'Academia.php';
-require_once 'Baile.php';
+// require_once "Persoa.php";
+// require_once 'Profesor.php';
+// require_once 'Alumno.php';
+// require_once 'Academia.php';
+// require_once 'Baile.php';
+require_once 'autoload.php';
 require_once "util.php";
 
 
